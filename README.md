@@ -111,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
