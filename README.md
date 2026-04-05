@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
