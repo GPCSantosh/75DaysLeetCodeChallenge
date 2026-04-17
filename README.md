@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GPCSantosh/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
